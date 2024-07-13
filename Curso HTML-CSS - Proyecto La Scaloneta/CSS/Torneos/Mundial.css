@@ -1,0 +1,111 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+html{
+    color: #f8f3f3;
+    background-color: #6da4ec;
+    font-family: 'Roboto', sans-serif;
+    text-align: center; 
+    margin: 15px;
+    padding: 15px;
+}
+
+nav {
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color: #f8f3f3;
+    color: #6da4ec;
+    border: 5px solid #e9e9ee;
+    border-radius: 10px;
+
+    a{
+        text-decoration: none;
+        text-align: left;
+        padding: 10px;
+        color: #6da4ec;
+        align-items: center;
+        justify-content: space-around;
+    }
+    
+
+} 
+
+
+body{
+    main {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .fase_grupos {
+        margin: 10px;
+        padding: 10px;
+        width: 60%;
+        height: 60%;
+        box-sizing: 10px;
+        border: 15px solid #e9e9ee;
+        border-radius: 10px;
+        color: #6da4ec;
+        background-color: #f8f3f3;
+
+    }
+
+    .octavos_final {
+        margin: 10px;
+        padding: 10px;
+        width: 60%;
+        height: 60%;
+        box-sizing: 10px;
+        border: 15px solid #e9e9ee;
+        border-radius: 10px;
+        color: #6da4ec;
+        background-color: #f8f3f3;
+
+    }
+
+    .cuartos_final {
+        margin: 10px;
+        padding: 10px;
+        width: 60%;
+        height: 60%;
+        box-sizing: 10px;
+        border: 15px solid #e9e9ee;
+        border-radius: 10px;
+        color: #6da4ec;
+        background-color: #f8f3f3;
+
+    }
+
+    .semifinal {
+        margin: 10px;
+        padding: 10px;
+        width: 60%;
+        height: 60%;
+        box-sizing: 10px;
+        border: 15px solid #e9e9ee;
+        border-radius: 10px;
+        color: #6da4ec;
+        background-color: #f8f3f3;
+
+    }
+
+    .final{
+            margin: 10px;
+            padding: 10px;
+            width: 60%;
+            height: 60%;
+            box-sizing: 10px;
+            border: 15px solid #e9e9ee;
+            border-radius: 10px;
+            color: #6da4ec;
+            background-color: #f8f3f3;
+    }
+}
